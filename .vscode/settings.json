@@ -8,6 +8,7 @@
     "crassula",
     "cupertino",
     "densiflorum",
+    "dotenv",
     "fullscreen",
     "haworthia",
     "listview",
@@ -17,6 +18,7 @@
     "riverpod",
     "ryotaiwamoto",
     "spinkit",
+    "Supabase",
     "unfocus",
     "YYYYMMDDHHMM"
   ],
